@@ -1,20 +1,22 @@
 ### Hi, I'm Sebastian Aduviri 👋
 
-PhD in Physics and Medical Physics Engineer. I turn complex problems into data-driven solutions, from atomistic simulations of proteins to the analysis of large scientific datasets.
+**Data Scientist | PhD in Physics**
 
-I currently work on **computational biophysics** at IFIBA (CONICET–University of Buenos Aires), using molecular dynamics simulations to study how enzymes recognize their ligands.
+I turn complex problems into data-driven solutions. My background in physics and scientific computing taught me to work with large, noisy datasets, build reproducible analysis pipelines and communicate results clearly.
 
-#### 🔬 What I work on
-- **Molecular dynamics** of proteins and protein–ligand systems: system setup, µs-scale simulations on HPC clusters, and trajectory analysis
-- **Scientific data analysis**: reproducible pipelines, statistics and publication-quality figures
-- **Structural bioinformatics**: sequence alignments, homology mapping and AlphaFold models
-- **Medical physics (radiotherapy)**: treatment planning and dose calculation with Varian Eclipse, periodic quality control and calibration of high-precision equipment, working directly with the clinical team to ensure patient safety and quality of care
+Currently, I analyze large-scale molecular simulation data at IFIBA (CONICET–University of Buenos Aires), extracting quantitative insight from millions of data points per project.
+
+#### 📊 What I do
+- **Data analysis & visualization:** exploratory analysis, statistics and publication-quality figures
+- **Machine learning:** predictive modeling with scikit-learn
+- **Data pipelines:** reproducible, scripted workflows from raw data to final results
+- **Scientific computing:** large-scale simulations and data processing on HPC clusters
 
 #### 🛠️ Tools
 - **Languages:** Python · R · SQL · Bash
-- **Data & scientific computing:** NumPy · pandas · scikit-learn · Matplotlib · Jupyter
-- **Simulation & structure:** GROMACS · CHARMM36/CGenFF · MDAnalysis · PACKMOL · CHARMM-GUI · UCSF Chimera · AlphaFold2
-- **Infrastructure:** Linux · SLURM (HPC) · Git
+- **Data science:** NumPy · pandas · scikit-learn · Matplotlib · Jupyter
+- **Scientific computing:** MDAnalysis · GROMACS · Linux · SLURM (HPC)
+- **Workflow:** Git · GitHub
 
 #### 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/sebastian-aduviri-29436731)
